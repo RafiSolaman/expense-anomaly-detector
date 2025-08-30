@@ -31,8 +31,6 @@ This combination allows us to detect **both obvious and hidden spending anomalie
     pip install -r requirements.txt
 ### 3. Run the program 
 
-https://www.kaggle.com/datasets/ealaxi/paysim1/data
-
 
 ## Example Output
 ```
